@@ -288,3 +288,4 @@
 2025-06-30 09:16:03 fix CI errors
 2025-01-27 01:16:04 enhance logging
 2025-11-22 13:06:03 remove debug output
+2025-08-24 17:35:53 cleanup dependencies
